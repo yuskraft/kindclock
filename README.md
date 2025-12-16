@@ -1,1 +1,1 @@
-# kindclock
+# KindClock 👋
